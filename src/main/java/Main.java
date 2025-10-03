@@ -54,10 +54,10 @@ public class Main{
         System.out.println("num1: " + producto2T.num1);
         System.out.println("num2: " + producto2T.num2);
 
-        System.out.println("Objeto Producto cargado desde 'serial'");
-        System.out.println("Nombre: " + producto2.nome);
-        System.out.println("num1: " + producto2.num1);
-        System.out.println("num2: " + producto2.num2);
+       /* System.out.println("Objeto Producto cargado desde 'serial'");
+        System.out.println("Nombre: " + producto.nome);
+        System.out.println("num1: " + producto.num1);
+        System.out.println("num2: " + producto.num2);*/
         }
     }
 
